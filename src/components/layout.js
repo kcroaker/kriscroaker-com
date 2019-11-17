@@ -144,14 +144,14 @@ export default ({ children, location }) => (
             &nbsp;and&nbsp;
             <a
               target="_blank"
-              href="https://cosmicjs.com"
+              href="https://cosmicjs.com/add-bucket?import_bucket=5dd0ca17cc2f9d0008669852"
               style={{
                 color: '#191919',
                 boxShadow: 'none',
               }}
             >
               <img
-                src={cosmicjsLogo}
+                src="https://cdn.cosmicjs.com/51fe54d0-4f6e-11e9-9f32-8d001da69630-powered-by-cosmicjs.svg"
                 alt="Cosmic JS"
                 style={{
                   width: '18px',
